@@ -1,0 +1,14 @@
+*.ini
+*.db
+*.swp
+*.log
+*.bak
+*.pyc
+*.perlbak
+.DS_Store
+data/
+result/
+tmp/
+null/
+# sample/
+__pycache__/
